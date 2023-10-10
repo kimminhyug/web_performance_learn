@@ -8,3 +8,4 @@
 2.  css 항목 별 영향력
   * https://docs.google.com/spreadsheets/u/0/d/1Hvi0nu2wG3oQ51XRHtMv-A_ZlidnwUYwgQsPQUg1R2s/pub?single=true&gid=0&output=html
 
+https://www.youtube.com/watch?v=Op52liUjvSk
