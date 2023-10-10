@@ -9,3 +9,4 @@
   * https://docs.google.com/spreadsheets/u/0/d/1Hvi0nu2wG3oQ51XRHtMv-A_ZlidnwUYwgQsPQUg1R2s/pub?single=true&gid=0&output=html
 
 https://www.youtube.com/watch?v=Op52liUjvSk
+https://portal.gitnation.org/contents/overcoming-performance-limitations-in-react-components-for-embedded-devices
